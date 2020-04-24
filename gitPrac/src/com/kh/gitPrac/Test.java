@@ -15,7 +15,12 @@ public class Test {
 	
 		System.out.println("zzzz");
 
+
 		System.out.println("push");
+
+
+		System.out.println("push");
+		System.out.println("branch dev1");
 
 	}
 
