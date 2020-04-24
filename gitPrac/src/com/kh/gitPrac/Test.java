@@ -13,6 +13,8 @@ public class Test {
 
 		System.out.println("push");
 		System.out.println("branch dev1");
+		
+		System.out.println("branch dev2");
 	}
 
 }
