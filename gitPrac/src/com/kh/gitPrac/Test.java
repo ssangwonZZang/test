@@ -11,6 +11,7 @@ public class Test {
 		
 		System.out.println("abcd");
 		System.out.println("더 진행1");
+		System.out.println("더 진행2");
 	
 	}
 
