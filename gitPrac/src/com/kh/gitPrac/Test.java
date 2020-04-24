@@ -10,11 +10,8 @@ public class Test {
 		System.out.println("난 조원!!!");
 		
 		System.out.println("abcd");
-//		dkjfk
-//		dfjk
-		
-
-//		ㅇ러ㅏ이ㅓ리
+		System.out.println("더 진행1");
+	
 	}
 
 }
